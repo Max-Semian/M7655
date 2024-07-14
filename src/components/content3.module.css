@@ -1,0 +1,64 @@
+.aHikingGuide {
+  position: absolute;
+  top: 0;
+  left: 104px;
+  letter-spacing: 6px;
+  text-transform: uppercase;
+  font-weight: 800;
+}
+.groupChild {
+  position: absolute;
+  top: 10px;
+  left: 0;
+  background-color: var(--accent);
+  width: 72px;
+  height: 2px;
+}
+.aHikingGuideParent {
+  width: 316px;
+  position: relative;
+  height: 22px;
+  color: var(--accent);
+}
+.bePreparedFor {
+  width: 950px;
+  position: relative;
+  font-size: var(--font-size-69xl);
+  line-height: 100px;
+  text-transform: capitalize;
+  font-weight: 600;
+  font-family: var(--font-open-sans);
+  display: inline-block;
+}
+.equipment {
+  position: absolute;
+  top: 1px;
+  left: 0;
+}
+.iconnavigationarrowDownward {
+  position: absolute;
+  top: 0;
+  left: 110px;
+  width: 16px;
+  height: 24px;
+}
+.equipmentParent {
+  width: 126px;
+  position: relative;
+  height: 24px;
+}
+.content {
+  position: absolute;
+  top: 287px;
+  left: 500px;
+  overflow: hidden;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: var(--gap-13xl);
+  text-align: left;
+  font-size: var(--font-size-lg);
+  color: var(--wei);
+  font-family: var(--font-montserrat);
+}

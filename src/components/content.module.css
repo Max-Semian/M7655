@@ -1,0 +1,122 @@
+.m {
+  position: absolute;
+  top: 0;
+  left: 0;
+}
+.m,
+.n,
+.t {
+  letter-spacing: 0.01em;
+  text-transform: capitalize;
+}
+.n {
+  position: absolute;
+  top: 0;
+  left: 32px;
+}
+.t {
+  left: 58px;
+}
+.logo,
+.n1,
+.t {
+  position: absolute;
+  top: 0;
+}
+.n1 {
+  left: 82px;
+  letter-spacing: 0.01em;
+  text-transform: capitalize;
+}
+.logo {
+  left: 0;
+  width: 108px;
+  height: 38px;
+  font-size: var(--font-size-13xl);
+  font-family: var(--font-open-sans);
+}
+.getOutThere {
+  top: 62px;
+  display: inline-block;
+  width: 303px;
+}
+.aboutMntn,
+.getOutThere,
+.moreOnThe {
+  position: absolute;
+  left: 0;
+  line-height: 32px;
+}
+.moreOnThe {
+  top: 0;
+  font-size: var(--font-size-5xl);
+  color: var(--accent);
+}
+.aboutMntn {
+  top: 56px;
+  font-weight: 500;
+}
+.contactUs,
+.contributorsWriters,
+.privacyPolicy,
+.writeForUs {
+  position: absolute;
+  top: 104px;
+  left: 0;
+  line-height: 32px;
+  font-weight: 500;
+}
+.contactUs,
+.privacyPolicy,
+.writeForUs {
+  top: 152px;
+}
+.contactUs,
+.privacyPolicy {
+  top: 200px;
+}
+.privacyPolicy {
+  top: 248px;
+}
+.links,
+.links1 {
+  position: absolute;
+  top: 0;
+  left: 896px;
+  width: 193px;
+  height: 280px;
+}
+.links1 {
+  left: 1301px;
+  width: 161px;
+  height: 184px;
+}
+.copyright2023Mntn {
+  position: absolute;
+  top: 248px;
+  left: 6.1px;
+  line-height: 32px;
+  font-weight: 500;
+  opacity: 0.5;
+}
+.footer {
+  width: 1462px;
+  position: relative;
+  height: 280px;
+  font-size: var(--font-size-lg);
+}
+.content {
+  position: absolute;
+  top: 1440px;
+  left: 229px;
+  overflow: hidden;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: flex-start;
+  gap: var(--gap-181xl);
+  text-align: left;
+  font-size: var(--font-size-221xl);
+  color: var(--wei);
+  font-family: var(--font-montserrat);
+}

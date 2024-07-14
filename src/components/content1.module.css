@@ -1,0 +1,104 @@
+.icon {
+  position: absolute;
+  height: 100%;
+  width: 38.71%;
+  top: 0;
+  right: 61.29%;
+  bottom: 0;
+  left: 0;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+  object-fit: cover;
+}
+.equipment {
+  position: absolute;
+  top: 5.28%;
+  left: 46.51%;
+  line-height: 240px;
+  opacity: 0.1;
+}
+.hikingEssentials {
+  position: absolute;
+  top: 0;
+  left: 96px;
+  letter-spacing: 6px;
+  text-transform: uppercase;
+  font-weight: 800;
+}
+.line {
+  position: absolute;
+  top: 10px;
+  left: 0;
+  background-color: var(--accent);
+  width: 72px;
+  height: 2px;
+}
+.tagline {
+  width: 354px;
+  position: relative;
+  height: 22px;
+}
+.pickingTheRight {
+  width: 555px;
+  position: relative;
+  font-size: var(--font-size-45xl);
+  font-weight: 600;
+  font-family: var(--font-open-sans);
+  color: var(--wei);
+  display: inline-block;
+}
+.theNiceThing {
+  margin: 0;
+}
+.theNiceThingContainer {
+  width: 632px;
+  position: relative;
+  line-height: 32px;
+  display: inline-block;
+  color: var(--wei);
+}
+.equipment1 {
+  position: absolute;
+  top: 0;
+  left: 0;
+}
+.iconnavigationarrowDownward {
+  position: absolute;
+  top: 3px;
+  left: 103px;
+  width: 24px;
+  height: 16px;
+  object-fit: contain;
+}
+.more {
+  width: 127px;
+  position: relative;
+  height: 22px;
+}
+.content1 {
+  position: absolute;
+  height: 60.97%;
+  width: 43.23%;
+  top: 19.58%;
+  right: 0;
+  bottom: 19.44%;
+  left: 56.77%;
+  overflow: hidden;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: var(--gap-8xl);
+  font-size: var(--font-size-lg);
+  color: var(--accent);
+}
+.content {
+  width: 1462px;
+  position: relative;
+  height: 720px;
+  text-align: left;
+  font-size: var(--font-size-221xl);
+  color: var(--wei);
+  font-family: var(--font-montserrat);
+}
